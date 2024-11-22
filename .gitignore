@@ -1,0 +1,5 @@
+#Files not to be included in the git repository
+/mysql-data
+.env
+node_modules
+package-lock.json
